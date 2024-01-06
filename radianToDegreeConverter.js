@@ -10,5 +10,5 @@ function radianToDegree(radian) {
     }
 }
 
-// const result = radianToDegree("3");
-// console.log(result);
+const result = radianToDegree(3);
+console.log(result);

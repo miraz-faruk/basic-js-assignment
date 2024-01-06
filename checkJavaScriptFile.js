@@ -11,6 +11,6 @@ function isJavaScriptFile(name) {
     }
 }
 
-// const fileName = 'untitled.js'
-// const javaScriptFileChecker = isJavaScriptFile(fileName);
-// console.log(javaScriptFileChecker);
+const fileName = 'untitled.js'
+const javaScriptFileChecker = isJavaScriptFile(fileName);
+console.log(javaScriptFileChecker);

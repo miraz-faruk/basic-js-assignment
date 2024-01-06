@@ -24,5 +24,5 @@ function publicBusFare(person) {
     }
 }
 
-// const totalFare = publicBusFare(263);
-// console.log(totalFare);
+const totalFare = publicBusFare(263);
+console.log(totalFare);

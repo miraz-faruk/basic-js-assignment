@@ -14,5 +14,5 @@ function oilPrice(dieselQuantity, petrolQuantity, octaneQuantity) {
     }
 }
 
-// const totalOilPrice = oilPrice(2, 3, 4);
-// console.log(totalOilPrice);
+const totalOilPrice = oilPrice(2, 3, 4);
+console.log(totalOilPrice);
